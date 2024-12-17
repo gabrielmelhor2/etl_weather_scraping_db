@@ -1,4 +1,4 @@
-# ETL: Coleta e Armazenamento de Dados Meteorológicos
+Processo de ETL: Extração, Transformação e Load de Dados da Tempo.com para o Banco de Dados
 
 Este projeto realiza um processo **ETL (Extração, Transformação e Load)** para capturar dados meteorológicos do site da Tempo (https://www.tempo.com/) utilizando **Selenium**. As informações extraídas são armazenadas em um banco de dados **SQLite**.
 
